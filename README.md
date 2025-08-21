@@ -1,5 +1,3 @@
-Based on the code snippet and repository name you've provided, here is a generated README file for your project.
-
 ### AI Landing Page Generator
 
 A web application that leverages the power of AI to instantly generate clean, responsive, and customizable HTML landing pages with Tailwind CSS. Simply input your product idea and category, and let the AI do the rest.
